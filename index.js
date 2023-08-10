@@ -20,7 +20,7 @@ app.get('/data', (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Orhan ÇELİK');
+  res.send('Sn. Fullstack Dev. Orhan ÇELİK');
 });
 
 app.listen(PORT, HOST, () => {
