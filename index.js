@@ -8,7 +8,7 @@ const HOST = '0.0.0.0';
 const app = express();
 
 const data = {
-    "name": "Orhan",
+    "name": "Orhannnnnnnn",
     "lastname": "ÇELİK",
     "skils" : ["JavaScript", "HTML", "CSS","PHP","Laravel","Git","Github","React","Tailwind","MySQL","PostgreSQL"]
 }
